@@ -1,0 +1,11 @@
+C:\Users\vigma\source\repos\CanCOMApplication\CanCOMApplication\obj\Debug\net6.0-windows\CanCOMApplication.ButtonSettingsForm.resources
+C:\Users\vigma\source\repos\CanCOMApplication\CanCOMApplication\obj\Debug\net6.0-windows\CanCOMApplication.Form1.resources
+C:\Users\vigma\source\repos\CanCOMApplication\CanCOMApplication\obj\Debug\net6.0-windows\CanCOMApplication.Form2.resources
+C:\Users\vigma\source\repos\CanCOMApplication\CanCOMApplication\obj\Debug\net6.0-windows\CanCOMApplication.HWcomMessages.resources
+C:\Users\vigma\source\repos\CanCOMApplication\CanCOMApplication\obj\Debug\net6.0-windows\CanCOMApplication.picture_resources.resources
+C:\Users\vigma\source\repos\CanCOMApplication\CanCOMApplication\obj\Debug\net6.0-windows\CanCOMApplication.Properties.Resources.resources
+C:\Users\vigma\source\repos\CanCOMApplication\CanCOMApplication\obj\Debug\net6.0-windows\CanCOMApplication.csproj.GenerateResource.cache
+C:\Users\vigma\source\repos\CanCOMApplication\CanCOMApplication\obj\Debug\net6.0-windows\CanCOMApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vigma\source\repos\CanCOMApplication\CanCOMApplication\obj\Debug\net6.0-windows\CanCOMApplication.AssemblyInfoInputs.cache
+C:\Users\vigma\source\repos\CanCOMApplication\CanCOMApplication\obj\Debug\net6.0-windows\CanCOMApplication.AssemblyInfo.cs
+C:\Users\vigma\source\repos\CanCOMApplication\CanCOMApplication\obj\Debug\net6.0-windows\CanCOMApplication.csproj.CoreCompileInputs.cache

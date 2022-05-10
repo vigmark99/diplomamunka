@@ -1,0 +1,248 @@
+﻿<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <metadata name="DeviceID.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="DeviceName.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="DeviceDescription.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="CanID.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="Data_Length.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="Data.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="Timestamp.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="Direction.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="ID.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="test_case.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="send_frame_id.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="dataLen.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="data_to_send.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="receive_frame_id.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="timeout.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="description.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="relatedDeviceID.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="simulationStartBTN.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        Qk32EgAAAAAAADYAAAAoAAAAKAAAACgAAAABABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA////////
+        ////////////////////////////////////////////////////////////////////////////////
+        ////////////////////////////////////////////////////6N7e4tjY7+/v////////////////
+        ////////////////////////////////////////////////////////////////////////////////
+        ////////////////////////////////////////////////wra2AE9PADAwUUhI////////////////
+        ////////////////////////////////////////////////////////////////////////////////
+        ////////////////////////////////////////39XVVDk5Enp6AP//ClZW1MvL////////////////
+        ////////////////////////////////////////////////////////////////////////////////
+        //////////////////////////////////r6PBcXDj8+AOLhAP//ACkp/urq////////////////////
+        ////////////////////////////////////////////////////////////////////////////////
+        ////////////////////////+PLyy7q6KVJSAPX0AP//AP//ADw8+uTk////////////////////////
+        ////////////////////////////////////////////////////////////////////////////////
+        //////////////////////r5Sl9hAEZKANrbAP//AP3/AM/POmZm8uvr////////////////////////
+        ////////////////////////////////////////////////////////////////////////////////
+        //////////////3+joSERUlMALXAAP//APj/AP//ANbUQV1d9enp////////////////////////////
+        ////////////////////////////////////////////////////////////////////////////////
+        ////////paOiGR0eAIqSAN7fAP//APH/APT/AOXnPz4+//n5////////////////////////////////
+        //////////////////////////////////////////////////////////////////////////////39
+        5t7dn4aFAFVcAPv/AP//APX/APH/APP/AP//AL69bFJS////////////////////////////////////
+        ////////////////////////////////////////////////////////////////////////0tDPi4SE
+        IV5iAHd7AP3/APf/APD/APH/APT/AP7/AKenZl5f////////////////////////////////////////
+        ////////////////////////////////////////////////////////////////////48jHOWJmAIqN
+        AN/lAP//APX/APH/APL/APH/APX+BKakfYOD////////////////////////////////////////////
+        ////////////////////////////////////////////////////////////5uXlWUxLDD1CANzkAP3/
+        APb/APH/APH/APL/APD/APb/APv/AF9luaKi////////////////////////////////////////////
+        /////////////////////////////////////////////////////////P7+p6CgPUtNGIeNALjDAPL4
+        APf/APH/APH/APL/APf/APf9CGNtr5eW////////////////////////////////////////////////
+        ////////////////////////////////////////////////////////////////////z6uqVz4/DZKZ
+        APH2APL/APH/APT/AO7yB3J4sYyK////////////////////////////////////////////////////
+        ////////////////////////////////////////////////////////////////////6OnoPS4xAl5l
+        AOnuAPP/APL/APr/AMTMKjU2////////////////////////////////////////////////////////
+        ////////////////////////////////////////////////////////////+ezrt5KPQV5jALvBAPT3
+        APT/APL/APP/AN/lIFpa3bu5////////////////////////////////////////////////////////
+        ////////////////////////////////////////////////////9fPzj3h3M09SAFVcANHWAP//APL/
+        APL/APL/APP/AO72DpyiXFlcoZCQ/v//////////////////////////////////////////////////
+        /////////////////////////////////////////////vj44MrIcoGEAGVrAMDGAP//APz/AO//APL/
+        APL/APL/APL/APT/APX+AKqyAElRnZyb////////////////////////////////////////////////
+        ////////////////////////////////////////yLCuiIGBLkdNCJacAPz/AP3/APL/APH/APL/APL/
+        APL/APL/APL/APP/APn/ALO8S2dp4Nva////////////////////////////////////////////////
+        ////////////////////////////////////r6KhDzA3AICJAN/hAPb9APP/APH/APH/APL/APL/APL/
+        APL/APL/APP/APv/AKKqN0VH//n4////////////////////////////////////////////////////
+        ////////////////////////////tLCvTkE/Fm51APr/AP//APX/APL/APL/APL/APL/APL/APL/APL/
+        APH/APP/APL7AJKaXWBi//z6////////////////////////////////////////////////////////
+        ////////////////////////6OfnG0VIAGt2AODkAP//APH/APL/APL/APL/APL/APL/APL/APL/APH/
+        APT/APj/AY6VZW5w9Ono////////////////////////////////////////////////////////////
+        /////////////////////////f79oKGiTF9hEWtvAKarAPX9APT/APL/APL/APL/APL/APL/APL/APT/
+        APP8AJSdamps9eno////////////////////////////////////////////////////////////////
+        //////////////////////////////7+//n4xa6ue2xuEomOAOnxAPP/APL/APL/APL/APL/APT/APf/
+        AJGYUVtc//n3////////////////////////////////////////////////////////////////////
+        ////////////////////////////////////emRiOEdJCsDIAPX9APL/APL/APL/APH/APT/AO/2A4aN
+        c3By//r6////////////////////////////////////////////////////////////////////////
+        ////////////////////////////wKimZG1vAJCWANbgAPX9APP/APL/APL/APH/APP/APL6DYyTen6A
+        +O/s////////////////////////////////////////////////////////////////////////////
+        ////////////////////nYmIe2ppC1lgBKGpAPf/APv/APL/APL/APL/APL/APD/APz/AKyxXkBC+d/d
+        ////////////////////////////////////////////////////////////////////////////////
+        ////////////////noOBAGtzAJahAPH0APb/APL/APH/APL/APL/APL/APL/APH/APf/APP6InV7WjY0
+        0L28////////////////////////////////////////////////////////////////////////////
+        ////6uLiyLq5AAAADnd/AP//AP//APP/APL/APL/APL/APL/APL/APL/APL/APL/APD/APn/APX+ALnG
+        F1RYxq2t////////////////////////////////////////////////////////////////////5uHh
+        u4+OElFWE0JFAO/6AOryAPT/APD/APL/APL/APL/APL/APL/APL/APL/APL/APL/APH/APb/ANXdJHyB
+        nJub//////////////////////////////////////////////////////////////////////v7KFZW
+        AF5kAuXqAOv1APn/APX/APH/APL/APL/APL/APL/APL/APL/APL/APL/APL/APL/AO//AP//AIaLZU9R
+        8+Tj////////////////////////////////////////////////////////////////////RDIyAP//
+        AP//APT/APX/APH/APH/APL/APL/APL/APL/APL/APL/APL/APL/APL/APL/APD/AP7/ANjfIkRJvq2s
+        ////////////////////////////////////////////////////////////////////////FAoKEFFR
+        ANnXAPP/AP//APH/APH/APL/APL/APL/APL/APL/APL/APL/APL/APL/APH/APn/ANLXHEBF2La0////
+        ////////////////////////////////////////////////////////////////////////////0cXF
+        WjIyBn17AJ6eAP//AP3/APD/APL/APL/APL/APL/APL/APL/APL/APL/APP/APf/AKCnRElM59LR////
+        ////////////////////////////////////////////////////////////////////////////////
+        ////s5+ehn9/AEA+AK2vAP//APT/APD/APL/APL/APL/APL/APL/APH/APP9BaKnV2Rn2srK////////
+        ////////////////////////////////////////////////////////////////////////////////
+        ////////////6tfXXWdmAAAAAPn6AP//APb/APT/APH/APL/APL/APH/AP//AHB2c1ZV/vj3////////
+        ////////////////////////////////////////////////////////////////////////////////
+        ////////////////////////OhcXDzQzAMfEAO32AP//APP/APP/AP//AHZ9b1NU+e7s////////////
+        ////////////////////////////////////////////////////////////////////////////////
+        ////////////////////////////4tfXaUZFFmdlAJ+hAPb/APf/BomQelZX9efn////////////////
+        ////////////////////////////////////////////////////////////////////////////////
+        ////////////////////////////////////z8HAdmdpAFVWAJykBz9G0Kyq////////////////////
+        ////////////////////////////////////////////////////////////////////////////////
+        ////////////////////////////////////////////4NTUY2RldXp7////////////////////////
+        ////////////////////////////////////////////////////////////////////////
+</value>
+  </data>
+  <metadata name="DeviceID.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="DeviceName.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="DeviceDescription.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="CanID.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="Data_Length.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="Data.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="Timestamp.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="Direction.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="ID.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="test_case.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="send_frame_id.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="dataLen.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="data_to_send.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="receive_frame_id.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="timeout.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="description.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="relatedDeviceID.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+</root>

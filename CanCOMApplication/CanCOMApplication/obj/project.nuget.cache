@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "8+qSvPVreYQ2j8ROOGAxJKjAbuz6SA/O6nfiLogM8h6MKwRCDfA0eNZP8GSgMb/a7LCqYMPjrbyLqDnFuy0Vfw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vigma\\OneDrive\\Desktop\\repo\\CanCOMApplication\\CanCOMApplication\\CanCOMApplication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vigma\\.nuget\\packages\\microsoft.netcore.platforms\\3.0.0\\microsoft.netcore.platforms.3.0.0.nupkg.sha512",
+    "C:\\Users\\vigma\\.nuget\\packages\\microsoft.win32.systemevents\\4.6.0\\microsoft.win32.systemevents.4.6.0.nupkg.sha512",
+    "C:\\Users\\vigma\\.nuget\\packages\\mysqlconnector\\2.1.8\\mysqlconnector.2.1.8.nupkg.sha512",
+    "C:\\Users\\vigma\\.nuget\\packages\\oxyplot.core\\2.1.0\\oxyplot.core.2.1.0.nupkg.sha512",
+    "C:\\Users\\vigma\\.nuget\\packages\\oxyplot.windowsforms\\2.1.0\\oxyplot.windowsforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\vigma\\.nuget\\packages\\runtime.linux-arm.runtime.native.system.io.ports\\6.0.0\\runtime.linux-arm.runtime.native.system.io.ports.6.0.0.nupkg.sha512",
+    "C:\\Users\\vigma\\.nuget\\packages\\runtime.linux-arm64.runtime.native.system.io.ports\\6.0.0\\runtime.linux-arm64.runtime.native.system.io.ports.6.0.0.nupkg.sha512",
+    "C:\\Users\\vigma\\.nuget\\packages\\runtime.linux-x64.runtime.native.system.io.ports\\6.0.0\\runtime.linux-x64.runtime.native.system.io.ports.6.0.0.nupkg.sha512",
+    "C:\\Users\\vigma\\.nuget\\packages\\runtime.native.system.io.ports\\6.0.0\\runtime.native.system.io.ports.6.0.0.nupkg.sha512",
+    "C:\\Users\\vigma\\.nuget\\packages\\runtime.osx-arm64.runtime.native.system.io.ports\\6.0.0\\runtime.osx-arm64.runtime.native.system.io.ports.6.0.0.nupkg.sha512",
+    "C:\\Users\\vigma\\.nuget\\packages\\runtime.osx-x64.runtime.native.system.io.ports\\6.0.0\\runtime.osx-x64.runtime.native.system.io.ports.6.0.0.nupkg.sha512",
+    "C:\\Users\\vigma\\.nuget\\packages\\scottplot\\4.1.41\\scottplot.4.1.41.nupkg.sha512",
+    "C:\\Users\\vigma\\.nuget\\packages\\scottplot.winforms\\4.1.41\\scottplot.winforms.4.1.41.nupkg.sha512",
+    "C:\\Users\\vigma\\.nuget\\packages\\system.drawing.common\\4.6.1\\system.drawing.common.4.6.1.nupkg.sha512",
+    "C:\\Users\\vigma\\.nuget\\packages\\system.io.ports\\6.0.0\\system.io.ports.6.0.0.nupkg.sha512",
+    "C:\\Users\\vigma\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.17763.24\\microsoft.windows.sdk.net.ref.10.0.17763.24.nupkg.sha512"
+  ],
+  "logs": []
+}
